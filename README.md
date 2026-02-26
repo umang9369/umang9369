@@ -1,13 +1,119 @@
+<!-- ===================== HEADER ===================== -->
 <h1 align="center">Hi 👋, I'm Umang Singh</h1>
-<h3 align="center">Passionate Backend and Cloud Engineer from India .🎓 CSE student at BPIT (Batch 2028). 🧠 Exploring core tech :- Linux, Networking, Cloud, Docker, DevOps. ☁️ Microsoft Azure Fundamentals (AZ-900) certified. 🤖 Actively experimenting with AI tools and developing strong prompt engineering skills. 💻 Learning Java, C, and C++ to strengthen programming fundamentals. 🛠️ Love working on small projects and integrating AI into real workflows. I believe in learning by doing and enjoy building, exploring, and growing in the ever-evolving world of technology. Always excited to collaborate and dive into new challenges!</h3>
+<h3 align="center">
+Sophomore | Cloud & DevOps Enthusiast | Agentic AI <br/>
+BTech CSE @ BPIT, GGSIPU | New Delhi, India 🇮🇳
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang9369&label=Profile%20views&color=0e75b6&style=flat" alt="umang9369" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/umang-singh-19a888303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umang-singh-19a888303/" height="30" width="40" /></a>
-<a href="https://instagram.com/umanggggg.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umanggggg.__" height="30" width="40" /></a>
+<p align="center">
+I believe in <b>learning by doing</b> — building, breaking, exploring, and collaborating on real-world challenges.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
+
+<!-- ===================== STATS ===================== -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umang9369&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang9369&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nginx,django" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,git,github" />
+</p>
+
+---
+
+<!-- ===================== BADGES ===================== -->
+<h2 align="center">📌 Skills & Focus Areas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-IaC-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Backend-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-RAG-red?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ===================== EXPERIENCE ===================== -->
+<h2 align="center">💼 Experience & Achievements</h2>
+
+- 🧑‍💻 **Tech Member** — *The NAMESPACE Community* (Oct 2024 – Present)  
+- 🏆 **2× Hackathon Winner**, including **HACKHAZARDS ’25**  
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 📚 Certified in **Introduction to Generative AI**  
+- 🚀 Preparing for **AWS Associate-level Certification**
+
+---
+
+<!-- ===================== CURRENT WORK ===================== -->
+<h2 align="center">🚀 Current Projects & Learning</h2>
+
+- 🤖 Building **AI Agents & RAG Systems**
+- ⚙️ Developing **EduPulse AI** — a custom DevOps CI/CD project
+- 🌐 Managing hosting & infrastructure for **kubotor.com**
+- 🧠 Practicing **DSA in C++**
+- 📊 Statistical analysis using **Scilab**
+- 🗄️ Database design with **Oracle APEX SQL**
+
+---
+
+<!-- ===================== STREAK ===================== -->
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=umang9369&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umang9369&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="mailto:singhranju149@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/umang-singh-19a888303">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/umang9369">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Always excited to collaborate and dive into new challenges.”</i> 🚀
+</p>
