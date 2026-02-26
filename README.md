@@ -1,47 +1,13 @@
-### Hi 👋! My name is Umang Singh and I'm a Cloud & DevOps Enthusiast, from New Delhi, India.
+<h1 align="center">Hi 👋, I'm Umang Singh</h1>
+<h3 align="center">Passionate Backend and Cloud Engineer from India .🎓 CSE student at BPIT (Batch 2028). 🧠 Exploring core tech :- Linux, Networking, Cloud, Docker, DevOps. ☁️ Microsoft Azure Fundamentals (AZ-900) certified. 🤖 Actively experimenting with AI tools and developing strong prompt engineering skills. 💻 Learning Java, C, and C++ to strengthen programming fundamentals. 🛠️ Love working on small projects and integrating AI into real workflows. I believe in learning by doing and enjoy building, exploring, and growing in the ever-evolving world of technology. Always excited to collaborate and dive into new challenges!</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umang9369&label=Profile%20views&color=0e75b6&style=flat" alt="umang9369" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umang9369&theme=dark&hide_border=true" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umang9369&layout=compact&theme=dark&hide_border=true" alt="languages graph" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/umang-singh-19a888303/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/umang-singh-19a888303/" height="30" width="40" /></a>
+<a href="https://instagram.com/umanggggg.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umanggggg.__" height="30" width="40" /></a>
 </p>
 
-<div>
-  <img src="https://via.placeholder.com/200x200.png?text=Your+Picture+Here" align="right" width="200" alt="Profile Picture">
-
-  <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
-  </p>
-
-  <p align="left">
-    <a href="mailto:singhranju149@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/umang-singh-19a888303"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/umang9369"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-  
-  <br><br><br>
-</div>
-
-### 🚀 About Me
-* [cite_start]🎓 I'm a BTech Computer Science Sophomore at Bhagwan Parshuram Institute Of Technology (Batch 2028)[cite: 15, 31, 32].
-* [cite_start]💼 Working as a Tech Member at The NAMESPACE Community[cite: 24, 25].
-* [cite_start]💡 I believe in learning by doing and enjoy building, exploring, and growing in the ever-evolving world of technology[cite: 21]. [cite_start]Always excited to collaborate and dive into new challenges![cite: 22].
-* [cite_start]🏆 Proud 2x Hackathon Winner and participant in HACKHAZARDS '25[cite: 9, 13].
-* [cite_start]☁️ Microsoft Certified: Azure Fundamentals (AZ-900)[cite: 10, 18], and actively preparing for an AWS Associate-level certification.
-
-### 🛠️ What I'm Working On
-* [cite_start]🤖 Building AI Agents and RAG systems[cite: 20].
-* ⚙️ Developing **EduPulse AI**, a custom DevOps CI/CD project.
-* 🌐 Managing hosting and infrastructure for my domain, `kubotor.com`.
-* [cite_start]🧠 Sharpening core algorithms and data structures using C++[cite: 19].
-* 📊 Performing statistical analysis using Scilab and database design with Oracle APEX SQL.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
