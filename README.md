@@ -28,3 +28,39 @@
 </div>
 ---
 ## 🧬 System.profile()
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="310"/>
+```python
+umang = {
+    "role":           "Cloud, DevOps & Agentic AI Engineer",
+    "city":           "Delhi, India 🇮🇳",
+    "education":      "B.Tech CSE @ BPIT (2024 - 2028)",
+    "certifications": ["Microsoft Certified: Azure Fundamentals (AZ-900)"],
+    "focus":          ["Agentic AI", "Enterprise RAG", "Cloud Architecture", "Event Streams"],
+    "core_stack":     ["Python", "FastAPI", "Kafka", "Azure", "Terraform", "Docker", "C++"],
+    "obsession":      "Building distributed systems that think and scale without breaking",
+    "online":         "24/7 when the build passes & coffee is hot ☕",
+    "endgame":        "Architect self-orchestrating, resilient cloud-native AI infrastructures"
+}
+```
+<br/>
+---
+## 🤖 AI, Agentic & Cloud Stack
+<div align="center">
+**🧠 Agentic Orchestration & RAG**
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00F5FF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llamaindex&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<br/>
+**☁️ Cloud, DevOps & IaC**
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
