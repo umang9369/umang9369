@@ -5,12 +5,12 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <!-- Top wave: sharp vortex sweep in indigo-to-pink -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Umang%20Singh&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Cloud%20Builder%20%E2%80%A2%20Agentic%20AI%20Architect%20%E2%80%A2%20Distributed%20Systems%20Dev&descAlignY=67&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:020024,30:090979,60:6d00a8,100:ff006a&height=260&section=header&text=Umang%20Singh&fontSize=80&fontColor=ffffff&fontAlignY=45&desc=Cloud%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Distributed%20Systems%20Dev&descAlignY=67&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Glowing animated name banner (SVG — no external image needed) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=65&lines=%E2%96%B6+INITIALIZING+UMANG.EXE...;%E2%9C%85+AZURE+AZ-900+CERTIFIED;%E2%9C%85+ENTERPRISE+RAG+PIPELINES+ONLINE;%E2%9C%85+KAFKA+STREAMS+ACTIVE;%E2%9C%85+TERRAFORM+IaC+LOADED;%F0%9F%9A%80+READY+TO+SHIP+FROM+DELHI%2C+INDIA" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=800&color=7C00E3&center=true&vCenter=true&width=900&height=65&lines=%E2%96%B6+INITIALIZING+UMANG.EXE...;%E2%9C%85+AZURE+AZ-900+CERTIFIED;%E2%9C%85+ENTERPRISE+RAG+PIPELINES+ONLINE;%E2%9C%85+KAFKA+STREAMS+ACTIVE;%E2%9C%85+TERRAFORM+IaC+LOADED;%F0%9F%9A%80+READY+TO+SHIP+FROM+DELHI%2C+INDIA" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=800&color=00F5FF&center=true&vCenter=true&width=900&height=65&lines=%E2%96%B6+INITIALIZING+UMANG.EXE...;%E2%9C%85+AZURE+AZ-900+CERTIFIED;%E2%9C%85+LLM+ORCHESTRATION+%26+EVALS+ONLINE;%E2%9C%85+KAFKA+DISTRIBUTED+STREAMS+ACTIVE;%E2%9C%85+TERRAFORM+IaC+%26+CICD+LOADED;%E2%9C%85+LANGCHAIN+%26+LANGGRAPH+RUNNING;%F0%9F%9A%80+READY+TO+SHIP+FROM+DELHI%2C+INDIA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=800&color=7C00E3&center=true&vCenter=true&width=900&height=65&lines=%E2%96%B6+INITIALIZING+UMANG.EXE...;%E2%9C%85+AZURE+AZ-900+CERTIFIED;%E2%9C%85+LLM+ORCHESTRATION+%26+EVALS+ONLINE;%E2%9C%85+KAFKA+DISTRIBUTED+STREAMS+ACTIVE;%E2%9C%85+TERRAFORM+IaC+%26+CICD+LOADED;%E2%9C%85+LANGCHAIN+%26+LANGGRAPH+RUNNING;%F0%9F%9A%80+READY+TO+SHIP+FROM+DELHI%2C+INDIA" alt="Typing SVG"/>
 </picture>
 
 <br/>
@@ -32,19 +32,22 @@
 
 ## 🧬 System.profile()
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300"/>
+<img align="right" src="./assets/umang.jpg" width="280" style="border-radius:12px"/>
 
 ```python
 umang = {
-  "role":      "Cloud Builder + Agentic AI Architect",
+  "role":      "AI Engineer (AIops) + Cloud Architect",
   "city":      "Delhi, India 🇮🇳",
   "education": "B.Tech CSE @ BPIT (2024 - 2028)",
   "certs":     ["Microsoft Azure AZ-900"],
-  "focus":     ["Agentic AI", "Enterprise RAG", "Kafka Streams", "Cloud DevOps"],
-  "stack":     ["Python", "FastAPI", "Kafka", "Azure", "Terraform", "Docker", "C++"],
-  "obsession": "Systems that think, scale, and never go down",
-  "online":    "24/7 when the build is broken 🌙",
-  "endgame":   "build AI that engineers itself",
+  "focus":     ["AI Engineering", "Agentic AI & Distributed Streams",
+                "CloudOps", "LLM Orchestration", "LLM Observability",
+                "LLM Guardrails + Gateways", "LLM Evals & Security"],
+  "stack":     ["Python", "FastAPI", "Multi-Cloud", "Linux",
+                "Terraform", "Docker", "CI/CD",
+                "LangChain", "LangGraph", "Jina AI + Portkey"],
+  "online":    "24/7 hustler 🔥",
+  "endgame":   "Giving up is not in the blood sir !!",
 }
 ```
 
@@ -54,11 +57,11 @@ umang = {
 
 ---
 
-## 🤖 GenAI & Agentic Stack
+## 🤖 AI Engineer Stack
 
 <div align="center">
 
-**🧠 Orchestration**
+**🧠 LLM Orchestration & Agentic Frameworks**
 
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 &nbsp;
@@ -69,6 +72,18 @@ umang = {
 <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/LlamaIndex-FFC107?style=for-the-badge&logoColor=black"/>
+
+**🔭 LLM Observability, Evals & Security**
+
+<img src="https://img.shields.io/badge/Portkey-6366F1?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jina_AI-000000?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLM_Guardrails-A855F7?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLM_Evals-FF006A?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LLM_Gateways-00F5FF?style=for-the-badge&logoColor=black"/>
 
 **🤖 Models & APIs**
 
@@ -96,21 +111,83 @@ umang = {
 
 ---
 
+## ☁️ CloudOps Stack
+
+<div align="center">
+
+**☁️ Multi-Cloud & Infrastructure**
+
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+**🔄 CI/CD & Automation**
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚡ Distributed Systems Stack
+
+<div align="center">
+
+**⚡ Event Streaming & Messaging**
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+**🗄️ Databases & Storage**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</div>
+
+---
+
 ## 🛠️ Full Tech Arsenal
 
 <div align="center">
 
+**🤖 AI Engineering**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,linux,vscode,git&theme=dark&perline=8" />
+
 **☁️ Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,bash,git,githubactions&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,bash,githubactions,kubernetes&theme=dark&perline=8" />
 
 **⚡ Backend & Distributed Systems**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi,java,kafka,nodejs,postgres,mongodb,redis&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=java,kafka,nodejs,postgres,mongodb,redis,cpp&theme=dark&perline=8" />
 
-**💻 Languages & Tools**
+**🎨 Tools & Ecosystem**
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,html,css,vscode,postman,figma&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,github,figma&theme=dark&perline=8" />
 
 </div>
 
@@ -150,15 +227,16 @@ umang = {
 
 <div align="center">
 
-|  | Topic | Why it matters to me |
+| | Topic | Why it matters to me |
 |:---:|:---|:---|
-| 🤖 | **Agentic AI Systems** | Agents that reason, act, and loop autonomously |
-| 🔁 | **Enterprise RAG** | Knowledge pipelines that actually answer right |
-| ☁️ | **Azure Cloud Architecture** | Scalable, resilient infrastructure at real scale |
-| ⚡ | **Apache Kafka Streams** | Event-driven systems with zero message loss |
+| 🤖 | **AI Engineering (AIops)** | Building AI systems that ship to prod and actually stay alive |
+| 🧩 | **LLM Orchestration** | Chaining models with intent, not just with hope |
+| 🔭 | **LLM Observability** | You can't fix what you can't see inside the model |
+| 🛡️ | **LLM Guardrails + Gateways** | AI without guardrails is just a liability waiting to happen |
+| 🔬 | **LLM Evals & Security** | Vibes aren't a metric — measure everything |
+| ☁️ | **CloudOps & Multi-Cloud** | Infra that never sleeps and never breaks |
+| ⚡ | **Agentic AI & Distributed Streams** | Agents + Kafka = systems that think AND scale |
 | 🏗️ | **Terraform IaC** | Infra that provisions itself, repeatably |
-| 🐧 | **Linux & Systems** | The foundation everything real is built on |
-| 🔬 | **AI Evals & Observability** | Vibes aren't a metric |
 
 </div>
 
@@ -168,13 +246,13 @@ umang = {
 
 <div align="center">
 
-> *"Most devs use the cloud as a server. I use it as a platform."*
+> *"Your LLM is only as smart as the context you give it. Garbage in, hallucination out."*
 
-> *"Your RAG pipeline is only as good as your chunking strategy. Fight me."*
+> *"Observability for LLMs isn't optional — it's the difference between a product and a demo."*
 
-> *"Event-driven architecture isn't complexity — it's honesty about how systems actually behave."*
+> *"RAG without eval is just vibes with extra steps. Measure your recall, fight me."*
 
-> *"Agentic AI isn't the future — it's already late."*
+> *"Multi-agent systems aren't complex — they're honest about how real workflows actually work."*
 
 </div>
 
@@ -185,11 +263,12 @@ umang = {
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║  unpopular opinion: cloud certifications matter less than    ║
-║  actually deploying something that survives a traffic spike. ║
-║  build first, certify later.                                 ║
+║  unpopular opinion: most "AI Engineers" are just prompt      ║
+║  engineers with a FastAPI wrapper. real AI engineering is    ║
+║  evals, guardrails, observability, and making it NOT         ║
+║  hallucinate in production at 3am.                           ║
 ║                                                              ║
-║  — Umang, debugging a Kafka consumer at 2am                  ║
+║  — Umang, staring at LLM traces at 2am                       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -215,7 +294,7 @@ umang = {
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Got_a_system_to_build%3F-Let's_architect_it_🚀-a855f7?style=for-the-badge" height="34"/>
+<img src="https://img.shields.io/badge/Got_an_AI_system_to_build%3F-Let's_engineer_it_🚀-a855f7?style=for-the-badge" height="34"/>
 
 </div>
 
