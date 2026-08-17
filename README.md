@@ -32,7 +32,7 @@
 
 ## 🧬 System.profile()
 
-<img align="right" src="./assets/umang.jpg" width="280" style="border-radius:12px"/>
+<img align="right" src="https://raw.githubusercontent.com/umang9369/umang9369/main/assets/umang.jpg" width="280"/>
 
 ```python
 umang = {
@@ -57,7 +57,7 @@ umang = {
 
 ---
 
-## 🤖 AI Engineer Stack
+## 🤖 AI Engineering Stack
 
 <div align="center">
 
@@ -67,14 +67,13 @@ umang = {
 &nbsp;
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-F7C948?style=for-the-badge&logo=langchain&logoColor=black"/>
 &nbsp;
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/LlamaIndex-FFC107?style=for-the-badge&logoColor=black"/>
 
 **🔭 LLM Observability, Evals & Security**
 
+<img src="https://img.shields.io/badge/Logfire-FF4444?style=for-the-badge&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Portkey-6366F1?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Jina_AI-000000?style=for-the-badge&logoColor=white"/>
@@ -83,22 +82,26 @@ umang = {
 &nbsp;
 <img src="https://img.shields.io/badge/LLM_Evals-FF006A?style=for-the-badge&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/LLM_Gateways-00F5FF?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/LLM_Gateway+Reranking-00F5FF?style=for-the-badge&logoColor=black"/>
 
 **🤖 Models & APIs**
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 
 **📦 Vector & Memory**
 
+<img src="https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white"/>
@@ -111,7 +114,7 @@ umang = {
 
 ---
 
-## ☁️ CloudOps Stack
+## ☁️ Cloud & CloudOps Stack
 
 <div align="center">
 
@@ -131,11 +134,9 @@ umang = {
 
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 
 </div>
 
@@ -149,6 +150,8 @@ umang = {
 
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 &nbsp;
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -159,35 +162,13 @@ umang = {
 
 **🗄️ Databases & Storage**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</div>
-
----
-
-## 🛠️ Full Tech Arsenal
-
-<div align="center">
-
-**🤖 AI Engineering**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,linux,vscode,git&theme=dark&perline=8" />
-
-**☁️ Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,linux,bash,githubactions,kubernetes&theme=dark&perline=8" />
-
-**⚡ Backend & Distributed Systems**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,kafka,nodejs,postgres,mongodb,redis,cpp&theme=dark&perline=8" />
-
-**🎨 Tools & Ecosystem**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,github,figma&theme=dark&perline=8" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
 
 </div>
 
