@@ -32,7 +32,7 @@
 
 ## 🧬 System.profile()
 
-<img align="right" src="https://raw.githubusercontent.com/umang9369/umang9369/main/assets/umang.jpg" width="280"/>
+<img align="right" src="https://github.com/umang9369/umang9369/blob/main/source-photo.jpg" width="280"/>
 
 ```python
 umang = {
