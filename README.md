@@ -162,13 +162,13 @@ umang = {
 
 **🗄️ Databases & Storage**
 
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecode-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/QdrantDB-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white"/>
 
 </div>
 
