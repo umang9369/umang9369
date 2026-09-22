@@ -174,36 +174,6 @@ umang = {
 
 ---
 
-## 📊 Numbers Don't Lie
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umang9369&theme=2077"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umang9369&theme=2077"/>
-&nbsp;
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=umang9369&theme=2077"/>
-
-<br/><br/>
-
-<img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umang9369&theme=2077"/>
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-streak-stats-eight.vercel.app?user=umang9369&theme=radical&hide_border=false&border_radius=12&ring=a855f7&fire=ff006a&currStreakLabel=00f5ff"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umang9369&theme=react-dark&bg_color=0d1117&color=c084fc&line=a855f7&point=00f5ff&area=true&hide_border=true&radius=8" width="98%"/>
-</div>
-
----
-
 ## 🧠 Currently Obsessed With
 
 <div align="center">
